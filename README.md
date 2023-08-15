@@ -16,9 +16,9 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/MySQL-00758F" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-red" alt=""/></span>
-<span><img src="https://img.shields.io/badge/MongoDB-#4C9C3E" alt=""/></span>
-<span><img src="https://img.shields.io/badge/redis-#DC382C" alt=""/></span>
-<span><img src="https://img.shields.io/badge/Firebase-#FECC2D" alt=""/></span>
+<span><img src="https://img.shields.io/badge/MongoDB-4C9C3E" alt=""/></span>
+<span><img src="https://img.shields.io/badge/redis-DC382C" alt=""/></span>
+<span><img src="https://img.shields.io/badge/Firebase-FECC2D" alt=""/></span>
 <hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-979a9b"/></h3>
