@@ -1,12 +1,11 @@
-### Hi there, Safwan here 👋
+### Olá, aqui é Alexandre Fagundes 👋
 
 <h2 align="center">Um pouco sobre mim</h2>
 
-I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
+Atualmente trabalho como Quality Assurance e Pentest.
 
-Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (nltk, gensim & spacy).
+No momento estou totalmente imerso em Testes de software, cyber security e DevOps (Azure, Github Actions e Gitlab CI/DI), procuro me atualizar com as novas tecnologias. Também tenho estou estudando python para uso de IA, blockchain.
 
-- 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton), [reinforz](https://github.com/NLP-practitioners/reinforz) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 Atualmente estou trabalhando em ... Testes automatizados, Code Review e Pentest.
 - 👯 Atualmente estou estudando ... Python para IA e Cyber Security.  
 
@@ -15,11 +14,11 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
 Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em algum projeto.
 
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
-<span><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/></span>
-<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></span>
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
-<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></span>
-<span><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-#00758F" alt=""/></span>
+<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-red" alt=""/></span>
+<span><img src="https://img.shields.io/badge/MongoDB-#4C9C3E" alt=""/></span>
+<span><img src="https://img.shields.io/badge/redis-#DC382C" alt=""/></span>
+<span><img src="https://img.shields.io/badge/Firebase-#FECC2D" alt=""/></span>
 <hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-979a9b"/></h3>
@@ -54,6 +53,7 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <span><img src="https://img.shields.io/badge/PHP-%23777BB3" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Javascript-%23F7E01D" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Python-%23306B9B" alt=""/></span>
+<hr>
 
 <h3><img height="20px" src="https://img.shields.io/badge/Tool-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/Jmeter-%23D22229" alt=""/></span>
@@ -62,8 +62,4 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <span><img src="https://img.shields.io/badge/Git-%23F15233" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Figma-%23A25AFF" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Notion-black" alt=""/></span>
-
-
-
-
-<span><img src="" alt=""/></span>
+<hr>
